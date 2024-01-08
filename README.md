@@ -17,9 +17,6 @@ A Real Estate Sign up page
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -38,50 +35,15 @@ Users should be able to:
 
 ### Links
 
-- [Solution URL](https://github.com/josephakayesi/resteferme)
-- [Live Site URL](https://resteferme.vercel.app/)
+- [Solution URL](https://github.com/josephakayesi/homezen)
+- [Live Site URL](https://homezen.vercel.app/)
 
 ## My process
 
 ### Built with
 
 - [NextJS](https://nextjs.org/)
-- [Google reCAPTCHA](https://developers.google.com/recaptcha/docs/v3)
 - Flexbox
-
-### What I learned
-
-- I learnt how to set up a local fonts with variables in NextJS
-
-- I learnt how to implement Google reCAPTCHA.
-
-- I learnt how to implement optimized images using NextJS
-
-### Continued development
-
-- I want to focus on creating more delightful UIs. Adding microinteractions to elements of the UI.
-
-- I aim to enhance the responsiveness of the landing page, ensuring it accommodates various screen sizes for optimal user experience.
-
-- I aim to run my application through a web performance tester and improve on the performance of the website
-
-### Useful resources
-
-- [NextJS Image Optimization](https://nextjs.org/docs/app/building-your-application/optimizing/images) - This helped me to understand:
-  - Using Optimized images in NextJS
-  - The benefits and importance of using optimized images
-- [NextJS Docs](https://nextjs.org/docs) - This helped me to understand:
-
-  - Setting up a NextJS project
-  - The project structure of a NextJS Project
-
-- [TailwindCSS](https://tailwindcss.com/) - This helped me to understand:
-
-  - The use of a utility-first CSS framework
-
-- [Ben Haig's Youtube Channel](https://www.youtube.com/watch?v=3h3w3LDEz74) - This helped me to understand:
-
-  - How to setup Google reCAPTCHA in NextJS
 
 ## Author
 
