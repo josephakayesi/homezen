@@ -1,5 +1,4 @@
 import Image from "next/image";
-import HomeBackground from "./components/HomeBackground";
 import SignUp from "../components/SignUp";
 
 import Header3 from "../components/Header/Header3";

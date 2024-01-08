@@ -1,4 +1,3 @@
-import { Testimony } from "./index";
 export type Testimony = {
   image: string;
   name: string;
@@ -7,7 +6,7 @@ export type Testimony = {
   company: string;
 };
 
-export const TESTIMONIES: Testimony[] = [
+export const TESTIMONIES = [
   {
     image: "/profile1.png",
     name: "Renee Wells",

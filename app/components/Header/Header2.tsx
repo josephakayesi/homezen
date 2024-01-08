@@ -10,18 +10,9 @@ function Header2() {
   return (
     <HeaderWrapper>
       <div className="flex flex-row gap-4 overflow-x-scroll pl-12 no-scrollbar">
-        {TESTIMONIES.map(
-          (testimony): Testimony => (
-            <TestimonyCard
-              key={Math.random()}
-              image={testimony.image}
-              name={testimony.name}
-              comment={testimony.comment}
-              jobDescription={testimony.jobDescription}
-              company={testimony.company}
-            />
-          )
-        )}
+        {TESTIMONIES.map((testimony) => (
+          <TestimonyCard key={Math.random()} testimony={testimony} />
+        ))}
       </div>
     </HeaderWrapper>
   );

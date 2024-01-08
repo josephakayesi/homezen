@@ -2,12 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-/* @layer base {
-  body {
-    @apply h-svh;
-  }
-} */
-
 @layer base {
   input {
     @apply py-[10px] px-[12px] border-gray-400;

@@ -1,36 +1,94 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# HomeZen
 
-## Getting Started
+#### Things I was able to achieve on this project
 
-First, run the development server:
+- Creating Reusable Layout Components
+- Adding a custom CSS class to remove scrollbars
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+# HomeZen
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+A Real Estate Sign up page
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Table of contents
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-## Learn More
+## Overview
 
-To learn more about Next.js, take a look at the following resources:
+### The challenge
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Users should be able to:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- View the optimal layout for the interface depending on desktop devices
+- See hover and focus states for all interactive elements on the page
 
-## Deploy on Vercel
+### Screenshot
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![](./public/desktop.png)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+### Links
+
+- [Solution URL](https://github.com/josephakayesi/resteferme)
+- [Live Site URL](https://resteferme.vercel.app/)
+
+## My process
+
+### Built with
+
+- [NextJS](https://nextjs.org/)
+- [Google reCAPTCHA](https://developers.google.com/recaptcha/docs/v3)
+- Flexbox
+
+### What I learned
+
+- I learnt how to set up a local fonts with variables in NextJS
+
+- I learnt how to implement Google reCAPTCHA.
+
+- I learnt how to implement optimized images using NextJS
+
+### Continued development
+
+- I want to focus on creating more delightful UIs. Adding microinteractions to elements of the UI.
+
+- I aim to enhance the responsiveness of the landing page, ensuring it accommodates various screen sizes for optimal user experience.
+
+- I aim to run my application through a web performance tester and improve on the performance of the website
+
+### Useful resources
+
+- [NextJS Image Optimization](https://nextjs.org/docs/app/building-your-application/optimizing/images) - This helped me to understand:
+  - Using Optimized images in NextJS
+  - The benefits and importance of using optimized images
+- [NextJS Docs](https://nextjs.org/docs) - This helped me to understand:
+
+  - Setting up a NextJS project
+  - The project structure of a NextJS Project
+
+- [TailwindCSS](https://tailwindcss.com/) - This helped me to understand:
+
+  - The use of a utility-first CSS framework
+
+- [Ben Haig's Youtube Channel](https://www.youtube.com/watch?v=3h3w3LDEz74) - This helped me to understand:
+
+  - How to setup Google reCAPTCHA in NextJS
+
+## Author
+
+- Website - [Joseph Akayesi](https://www.josephakayesi.com)
+- Linkedin - [josephakayesi](https://www.linkedin.com/in/josephakayesi/)
+- Twitter - [@josephakayesi](https://www.twitter.com/josepakayesi)
+
+## Acknowledgments
+
+Hats off to the [Victor Bruce](https://twitter.com/Victorbruce3) who had earlier provided feedback of my Figma design. One of my long time partners. I drew inspiration from a portfolio website I had built in a Webflow University Course. The title of the course is 21-day design portfolio course and you can find it [here](https://university.webflow.com/course-lesson/portfolio-course-introduction)
