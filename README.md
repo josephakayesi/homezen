@@ -53,4 +53,4 @@ Users should be able to:
 
 ## Acknowledgments
 
-Hats off to the [Victor Bruce](https://twitter.com/Victorbruce3) who had earlier provided feedback of my Figma design. One of my long time partners. I drew inspiration from a portfolio website I had built in a Webflow University Course. The title of the course is 21-day design portfolio course and you can find it [here](https://university.webflow.com/course-lesson/portfolio-course-introduction)
+Shoutout to [Raegan Marfo](https://www.instagram.com/raygan.design?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) who sent me the assets to his design for this Sign up page.
